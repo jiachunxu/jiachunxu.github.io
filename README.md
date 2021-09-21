@@ -2,7 +2,11 @@
 
 
 [ls页面](test/ls.md)
-<a href="www.baidu.com">百度</a>
+
+<a href="https://www.baidu.com">百度</a>
+
+[百度2](https://www.baidu.com)
+
 
 You can use the [editor on GitHub](https://github.com/jiachunxu/jiachunxu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

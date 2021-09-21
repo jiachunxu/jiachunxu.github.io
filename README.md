@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[百度](baidu.com)
+[百度](www.baidu.com)
 
 You can use the [editor on GitHub](https://github.com/jiachunxu/jiachunxu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
